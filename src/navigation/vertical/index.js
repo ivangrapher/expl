@@ -37,24 +37,19 @@ function processMenu() {
     })
   }
   chainMenus.push({
-    title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
-    icon: 'GithubIcon',
-  })
-  chainMenus.push({
-    title: 'Discord',
-    href: 'https://discord.gg/CmjYVSr6GW',
-    icon: 'EyeIcon',
-  })
-  chainMenus.push({
     title: 'Twitter',
     href: 'https://twitter.com/ping_pub',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
-    title: 'Telegram',
-    href: 'https://t.me/pingpub',
-    icon: 'SendIcon',
+    title: 'FAQ',
+    href: 'https://github.com/ping-pub/explorer/discussions',
+    icon: 'MessageSquareIcon',
+  })
+  chainMenus.push({
+    title: 'Github',
+    href: 'https://github.com/ping-pub/explorer',
+    icon: 'GithubIcon',
   })
 
   return chainMenus
