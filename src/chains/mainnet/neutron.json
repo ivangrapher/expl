@@ -1,0 +1,19 @@
+{
+  "chain_name": "neutron",
+  "api": ["http://api_IP:api_PORT"],
+  "rpc": ["http://rpc_IP:rpc_PORT"],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.5",
+  "coin_type": "60",
+  "min_tx_fee": "800",
+  "assets": [
+    {
+      "base": "untrn",
+      "symbol": "NTRN",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Haqq/explorer/HAQQ.svg"
+    }],
+  "addr_prefix": "haqq",
+  "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Haqq/explorer/HAQQ.svg"
+}
