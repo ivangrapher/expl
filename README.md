@@ -1,3 +1,5 @@
+git clone https://github.com/ivangrapher/expl.git
+
 <div align="center">
 
 ![Ping Wallet](./public/logo.svg)
